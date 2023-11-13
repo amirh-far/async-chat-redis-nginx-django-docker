@@ -30,20 +30,10 @@ Provide step-by-step instructions on how to install your project.
 
 Show examples and explain how users can use your project. If applicable, provide code snippets.
 
-## Contributing
-
-If you want others to contribute to your project, provide guidelines for how they can do it. This may include information about coding standards, testing procedures, and how to submit pull requests.
-
-## License
-
-Specify the license under which your project is distributed. For example, you can use MIT, Apache, GPL, etc.
-
 ## Contact
 
-Provide your contact information so that others can reach out to you with questions, concerns, or feedback.
+If you have any questions, checkout my github profile for contact information
 
-- Email: your.email@example.com
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- GitHub: [amirh-far](https://github.com/amirh-far)
 
 Feel free to customize this template based on the specifics of your project.
