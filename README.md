@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/daphne-092E20?style=for-the-badge&logo=django&logoColor=green"/> <br>
 </p>
 
-This repo is an asynchronous simple chat, built in with Django, Nginx, Redis, Daphne and Postgresql using Docker.
+This repo is an asynchronous simple chat, built in with Django, Nginx, Redis, Daphne and Postgresql using Docker.<br>
 This chat is the same chat in the channels tutorial mentioned in the [channels document](https://channels.readthedocs.io/en/latest/tutorial/index.html), but with additional configuration with Redis, Nginx and Postgresql composed together with Docker.
 
 
