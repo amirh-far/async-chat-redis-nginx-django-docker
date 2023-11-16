@@ -24,6 +24,6 @@ sudo docker compose up
 
 If you have any questions, checkout my github profile for contact information
 
-- GitHub: [amirh-far](https://github.com/amirh-far)
+GitHub: [amirh-far](https://github.com/amirh-far)
 
 Feel free to customize this template based on the specifics of your project.
