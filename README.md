@@ -1,34 +1,24 @@
 # async-chat-redis-docker-django
- Simple chat using docker, redis, daphne, django, postgresql
 
-## Table of Contents
+This repo is an asynchronous simple chat, built in with Django, Nginx, Redis, Daphne and Postgresql using Docker.
+This chat is the same chat in the channels tutorial mentioned in the [channels document](https://channels.readthedocs.io/en/latest/tutorial/index.html), but with additional configuration with Redis, Nginx and Postgresql composed together with Docker.
 
-  - [About the Project](#about-the-project)
-  - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-
-
-## About the Project
-
-This repo is an asynchronous simple chat, built in with Django, Redis, Daphne and Postgresql using Docker
-
-## Getting Started
-
-Explain how to get started with your project.
-
-### Prerequisites
-
-List any software, libraries, or tools that users need to have installed before they can use your project.
 
 ### Installation
 
-Provide step-by-step instructions on how to install your project.
+```
+# Clone the project
+git clone https://github.com/amirh-far/async-chat-redis-nginx-django-docker
 
-## Usage
+# Install Docker (macos)
+brew install docker
 
-Show examples and explain how users can use your project. If applicable, provide code snippets.
+cd to/your/cloned/project
+
+# compose the containers
+sudo docker compose up
+
+```
 
 ## Contact
 
